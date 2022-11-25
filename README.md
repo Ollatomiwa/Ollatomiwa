@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ollatomiwa, I am a Web designer and a data analyst
-- 👀 I’m interested in developing creative web designs and database.
-- 🌱 I’m currently learning Boostrap and Django
+- 👋 Hi, I’m @Ollatomiwa, I am a Web designer
+- 👀 I’m interested in developing creative web designs and database structure
+- 🌱 Proficient in React, NodeJs and UI designs
 - 💞️ I’m looking to collaborate on both Frontend and back end development
 - 📫 How to reach me Gmail: ajaomoshood@gmail.com, Twitter:@Ollatomiwa
 
