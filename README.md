@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ollatomiwa, I am a Web designer
 - 👀 I’m interested in developing creative web designs and database structure
-- 🌱 Proficient in React, NodeJs and UI designs
+- 🌱 Proficient in Frontend and Backend development
 - 💞️ I’m looking to collaborate on both Frontend and back end development
 - 📫 How to reach me Gmail: ajaomoshood@gmail.com, Twitter:@Ollatomiwa
 
